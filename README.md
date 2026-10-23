@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I’m Mahanya 👋
 
-<!--
-**MahanyaGuntupalli/MahanyaGuntupalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical projects while growing my skills in software development. My work includes Python applications, data structures and algorithms, and hands-on problem solving.
 
-Here are some ideas to get you started:
+## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Student Management System](https://github.com/MahanyaGuntupalli/student-management-system) — a Python command-line app for adding, viewing, searching, and deleting student records, with data stored in a file.
+- [Sorting Algorithm Visualizer](https://github.com/MahanyaGuntupalli/sorting-Algorithm) — a Python console project demonstrating Bubble Sort and Selection Sort with adjustable display speed.
+
+## Tools and topics
+
+Python · Git · GitHub
+
+## What I’m working on
+
+Learning by building, improving my projects, and solving programming problems.
+
+Feel free to explore my repositories or connect through GitHub.
