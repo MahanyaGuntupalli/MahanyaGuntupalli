@@ -1,18 +1,39 @@
-# Hi, I’m Mahanya 👋
+<div align="center">
+  <h1>👋 Hi, I'm Mahanya</h1>
+  <p><strong>Building practical software projects and learning by making.</strong></p>
+  <p>Python applications · Algorithms · Hands-on problem solving</p>
+  <p>
+    <img alt="Python" src="https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white" />
+    <img alt="Git" src="https://img.shields.io/badge/Tools-Git-F05032?logo=git&logoColor=white" />
+    <img alt="GitHub" src="https://img.shields.io/badge/Platform-GitHub-181717?logo=github&logoColor=white" />
+  </p>
+</div>
 
-I build practical projects while growing my skills in software development. My work includes Python applications, data structures and algorithms, and hands-on problem solving.
+## 🌱 About me
 
-## Featured projects
+I enjoy turning ideas into working programs and improving them one step at a time. My public projects include Python applications, algorithm demonstrations, and coding challenge practice.
 
-- [Student Management System](https://github.com/MahanyaGuntupalli/student-management-system) — a Python command-line app for adding, viewing, searching, and deleting student records, with data stored in a file.
-- [Sorting Algorithm Visualizer](https://github.com/MahanyaGuntupalli/sorting-Algorithm) — a Python console project demonstrating Bubble Sort and Selection Sort with adjustable display speed.
+## 🚀 Featured projects
 
-## Tools and topics
+| Project | What it does | Built with |
+|---|---|---|
+| [Student Management System](https://github.com/MahanyaGuntupalli/student-management-system) | A menu-driven app to add, list, search, and delete student records saved in a local file. | Python |
+| [Sorting Algorithm Visualizer](https://github.com/MahanyaGuntupalli/sorting-Algorithm) | A console demonstration of Bubble Sort and Selection Sort with adjustable display speed. | Python |
 
-Python · Git · GitHub
+## 🧭 Current focus
 
-## What I’m working on
+- Building confidence with Python through complete, runnable projects
+- Understanding algorithms by implementing and comparing them
+- Writing clear project documentation and setup instructions
 
-Learning by building, improving my projects, and solving programming problems.
+## 🛠️ Tools
 
-Feel free to explore my repositories or connect through GitHub.
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+</p>
+
+## 📫 Explore
+
+Browse my [public repositories](https://github.com/MahanyaGuntupalli?tab=repositories) to see what I'm building and learning.
